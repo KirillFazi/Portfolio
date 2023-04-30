@@ -64,7 +64,7 @@
 
 ## Инструкция по использованию проекта
 Данный проект размещен на Github и выполнен в виде Jupyter Notebook. Для его использования потребуется установленный на компьютере Python и Jupyter Notebook. Так же, для корректной работы, необходимо установить следующие библиотеки:
-- `pandas` `numpy` `matplotlib` `statsmodels` `scikit-learn` `CatBoost` `pickle`
+- `pandas` `numpy` `matplotlib` `scikit-learn` `CatBoost` `joblib` `LightGBM`
 
 ## Клонирование репозитория
 

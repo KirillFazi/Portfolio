@@ -1,7 +1,7 @@
 # Проект для «киВшоп». Определение токсичных комментариев.
 
 *Проект был выполнен в рамках обучения в онлайн-школе Яндекс.Практикум на профессию "Специалист по Data Science".*
-- Используемые библиотеки: `pandas` `Sklearn` `keras` `transformers` `PyTorch` `LightGBM` `joblib`
+- Стек: `Python` `Jupyter` `pandas` `sklearn` `keras` `transformers` `PyTorch` `LightGBM` `joblib`
 
 ## Описание проекта
 Интернет-магазин «киВишоп» запускает новый сервис. 

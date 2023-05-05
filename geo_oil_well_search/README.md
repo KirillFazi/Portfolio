@@ -1,7 +1,7 @@
 # Выбор локации для размещения скважины
 
 *Проект был выполнен в рамках обучения в онлайн-школе Яндекс.Практикум на профессию "Специалист по Data Science".*
-- Используемые библиотеки: `pandas` `seaborn` `matplotlib` `statsmodels` `Sklearn`
+- Стек: `Python` `Jupyter` `pandas` `seaborn` `matplotlib` `statsmodels` `sklearn` `bootstrap` 
 
 ## Описание проекта
 

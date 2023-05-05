@@ -1,7 +1,7 @@
 # Прогнозирование заказов такси
 
 *Проект был выполнен в рамках обучения в онлайн-школе Яндекс.Практикум на профессию "Специалист по Data Science".*
-- Используемые библиотеки: `pandas` `matplotlib` `statsmodels` `Sklearn` `CatBoost` `pickle` `sklearn.pipeline`
+- Стек: `Python` `Jupyter` `pandas` `matplotlib` `statsmodels` `sklearn` `CatBoost` `pickle` `sklearn.pipeline`
 
 ## Описание проекта
 Компания «Желтое такси» собрала исторические данные о заказах такси в аэропортах. 
